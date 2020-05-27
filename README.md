@@ -15,6 +15,7 @@ Five [Intel Microcode](https://en.wikipedia.org/wiki/Intel_Microcode) (uCode) Se
 
 **ms_patch_ram.txt** - extracted content of MS Patch RAM. It contains uops divided into four groups (1st is all first uops from each triad, 2nd - all second uops and so on). This data combined into triads can be found in msrom at 0x7c00 UIP
 
+[IPC Scripts](https://github.com/chip-red-pill/crbus_scripts)
 
 ![screenshot](pic/1.jpg)
 ![screenshot](pic/2.jpg)
