@@ -17,6 +17,8 @@ Five [Intel Microcode](https://en.wikipedia.org/wiki/Intel_Microcode) (uCode) Se
 
 [IPC Scripts](https://github.com/chip-red-pill/crbus_scripts)
 
+[RED Unlock PoC](https://github.com/chip-red-pill/IntelTXE-PoC)
+
 ![screenshot](pic/1.jpg)
 ![screenshot](pic/2.jpg)
 
